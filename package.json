@@ -1,0 +1,30 @@
+{
+  "name": "agency-agents-ru",
+  "version": "1.0.0",
+  "description": "184 plug-and-play AI agent personas на русском языке — полный русский перевод agency-agents",
+  "keywords": [
+    "ai-agents",
+    "prompts",
+    "system-prompts",
+    "russian",
+    "русский",
+    "multi-agent",
+    "agency-agents",
+    "llm",
+    "claude",
+    "roles"
+  ],
+  "author": "jnMetaCode",
+  "license": "MIT",
+  "homepage": "https://github.com/jnMetaCode/agency-agents-ru#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnMetaCode/agency-agents-ru"
+  },
+  "files": [
+    "academic/", "design/", "engineering/", "finance/", "game-development/",
+    "marketing/", "paid-media/", "product/", "project-management/", "sales/",
+    "spatial-computing/", "specialized/", "support/", "testing/",
+    "README.md", "LICENSE"
+  ]
+}
