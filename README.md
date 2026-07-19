@@ -9,6 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-ru?style=social)](https://github.com/jnMetaCode/agency-agents-ru)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![npm](https://img.shields.io/npm/v/agency-agents-ru?color=cb3837&logo=npm)](https://www.npmjs.com/package/agency-agents-ru)
 
 
 ### 📊 Масштаб проекта
@@ -44,6 +45,18 @@ ao compose "Напиши глубокий аналитический матер�
 | 🆓 **6 бесплатных LLM** | Claude Code / Gemini CLI / Copilot / Codex / OpenClaw / Ollama |
 | 💰 **3 API-интеграции** | DeepSeek / Claude API / OpenAI |
 | 📋 **32 готовых шаблона** | Разработка, маркетинг, аналитика, дизайн, операционка |
+
+### Используйте эту библиотеку прямо в AO
+
+Также опубликована как npm-пакет (`agency-agents-ru`):
+
+```bash
+npm i agency-agents-ru
+```
+
+В workflow укажите `agents_dir: "agency-agents-ru"` — или выберите **Русский** в выпадающем списке библиотек на странице «Build a Team» веб-Studio:
+
+<p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — выбрана русская библиотека"></p>
 
 <p align="center">
   <a href="https://github.com/jnMetaCode/agency-orchestrator">
