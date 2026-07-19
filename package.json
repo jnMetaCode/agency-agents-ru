@@ -1,7 +1,7 @@
 {
   "name": "agency-agents-ru",
   "version": "1.0.0",
-  "description": "184 plug-and-play AI agent personas на русском языке — полный русский перевод agency-agents",
+  "description": "187 plug-and-play AI agent personas на русском языке — полный русский перевод agency-agents",
   "keywords": [
     "ai-agents",
     "prompts",
@@ -22,9 +22,25 @@
     "url": "https://github.com/jnMetaCode/agency-agents-ru"
   },
   "files": [
-    "academic/", "design/", "engineering/", "finance/", "game-development/",
-    "marketing/", "paid-media/", "product/", "project-management/", "sales/",
-    "spatial-computing/", "specialized/", "support/", "testing/",
-    "README.md", "LICENSE"
-  ]
+    "academic/",
+    "design/",
+    "engineering/",
+    "finance/",
+    "game-development/",
+    "marketing/",
+    "paid-media/",
+    "product/",
+    "project-management/",
+    "sales/",
+    "spatial-computing/",
+    "specialized/",
+    "support/",
+    "testing/",
+    "README.md",
+    "LICENSE",
+    "CATALOG.md"
+  ],
+  "scripts": {
+    "check:counts": "node scripts/check-counts.mjs"
+  }
 }

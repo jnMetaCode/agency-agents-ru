@@ -99,7 +99,7 @@
 | Технический художник Unreal | `game-development/unreal-engine/unreal-technical-artist.md` |
 | Строитель Миров Unreal | `game-development/unreal-engine/unreal-world-builder.md` |
 
-## 📢 Маркетинг (30)
+## 📢 Маркетинг (33)
 
 | Имя | Путь к файлу |
 |---------|-----------|
@@ -129,9 +129,12 @@
 | TikTok-стратег | `marketing/marketing-tiktok-strategist.md` |
 | Twitter-специалист по вовлечению | `marketing/marketing-twitter-engager.md` |
 | Специалист по оптимизации видео | `marketing/marketing-video-optimization-specialist.md` |
+| Оператор сообщества VK | `marketing/marketing-vk-community-operator.md` |
 | Менеджер официального аккаунта WeChat | `marketing/marketing-wechat-official-account.md` |
 | Стратег Weibo | `marketing/marketing-weibo-strategist.md` |
+| Селлер Wildberries | `marketing/marketing-wildberries-seller.md` |
 | Специалист по Xiaohongshu | `marketing/marketing-xiaohongshu-specialist.md` |
+| Специалист по Yandex SEO | `marketing/marketing-yandex-seo-specialist.md` |
 | Стратег Zhihu | `marketing/marketing-zhihu-strategist.md` |
 
 ## 💰 Платный трафик (7)
@@ -263,4 +266,4 @@
 
 ---
 
-**총 184 агентов** · Русский перевод upstream agency-agents
+**총 187 агентов** · Русский перевод upstream agency-agents
