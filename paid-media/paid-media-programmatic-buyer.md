@@ -1,6 +1,6 @@
 ---
 name: Специалист по программатик и display-закупкам
-description: Специалист по display-рекламе и программатик-закупкам: управляемые размещения, Google Display Network, DV360, платформы trade desk, партнёрские медиа (рассылки, спонсорский контент) и ABM display-стратегии через Demandbase и 6Sense.
+description: "Специалист по display-рекламе и программатик-закупкам: управляемые размещения, Google Display Network, DV360, платформы trade desk, партнёрские медиа (рассылки, спонсорский контент) и ABM display-стратегии через Demandbase и 6Sense."
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)
