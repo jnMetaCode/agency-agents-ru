@@ -56,6 +56,8 @@ npm i agency-agents-ru
 
 В workflow укажите `agents_dir: "agency-agents-ru"` — или выберите **Русский** в выпадающем списке библиотек на странице «Build a Team» веб-Studio:
 
+Или просмотрите все 187 агентов онлайн (без установки): [**ao.aiolaola.com/experts?lib=ru**](https://ao.aiolaola.com/experts?lib=ru)
+
 <p align="center"><img src="assets/studio-role-lib.png" width="800" alt="AO Studio — выбрана русская библиотека"></p>
 
 <p align="center">
