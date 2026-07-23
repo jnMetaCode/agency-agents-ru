@@ -11,6 +11,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![npm](https://img.shields.io/npm/v/agency-agents-ru?color=cb3837&logo=npm)](https://www.npmjs.com/package/agency-agents-ru)
 
+> 📖 **Бесплатные курсы** → [Learn AI Coding](https://aiolaola.com/en?utm_source=github&utm_campaign=agents-ru)(180 уроков) + [Build AI Agents](https://aiolaola.com/en/course/agents?utm_source=github&utm_campaign=agents-ru)(40 уроков) — практические курсы на английском
+
 
 ### 📊 Масштаб проекта
 
